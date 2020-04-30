@@ -1,0 +1,16 @@
+C:\Users\aimlyaa\Desktop\dip\clientSource\TesterClient\obj\Release\TesterClient.csprojAssemblyReference.cache
+C:\Users\aimlyaa\Desktop\dip\clientSource\TesterClient\obj\Release\TesterClient.auth.resources
+C:\Users\aimlyaa\Desktop\dip\clientSource\TesterClient\obj\Release\TesterClient.About.resources
+C:\Users\aimlyaa\Desktop\dip\clientSource\TesterClient\obj\Release\TesterClient.GetResult.resources
+C:\Users\aimlyaa\Desktop\dip\clientSource\TesterClient\obj\Release\TesterClient.GetTest.resources
+C:\Users\aimlyaa\Desktop\dip\clientSource\TesterClient\obj\Release\TesterClient.Properties.Resources.resources
+C:\Users\aimlyaa\Desktop\dip\clientSource\TesterClient\obj\Release\TesterClient.settings.resources
+C:\Users\aimlyaa\Desktop\dip\clientSource\TesterClient\obj\Release\TesterClient.Test.resources
+C:\Users\aimlyaa\Desktop\dip\clientSource\TesterClient\obj\Release\TesterClient.csproj.GenerateResource.cache
+C:\Users\aimlyaa\Desktop\dip\clientSource\TesterClient\obj\Release\TesterClient.csproj.CoreCompileInputs.cache
+C:\Users\aimlyaa\Desktop\dip\clientSource\TesterClient\obj\Release\TesterClient.csproj.CopyComplete
+C:\Users\aimlyaa\Desktop\dip\TesterClient.exe.config
+C:\Users\aimlyaa\Desktop\dip\clientSource\TesterClient\obj\Release\TesterClient.exe
+C:\Users\aimlyaa\Desktop\dip\clientSource\TesterClient\obj\Release\TesterClient.pdb
+C:\Users\aimlyaa\Desktop\dip\TesterClient.exe
+C:\Users\aimlyaa\Desktop\dip\TesterClient.pdb
